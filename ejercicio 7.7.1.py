@@ -25,4 +25,3 @@ print(f"la tupla {tupla2} esta ordenada {lista(tupla2)} ")
 
 
 
-
