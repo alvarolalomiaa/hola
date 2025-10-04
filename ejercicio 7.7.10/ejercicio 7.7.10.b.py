@@ -1,3 +1,4 @@
+#b)
 def multiplicar_matrices(A, B):
     filas_A, column_A = len(A), len(A[0])
     filas_B, column_B = len(B), len(B[0])
