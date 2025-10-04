@@ -1,3 +1,4 @@
+#d)
 def a_triangular_superior(M):
     
     M_mod = [row[:] for row in M] 
